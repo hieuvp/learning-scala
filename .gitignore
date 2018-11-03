@@ -1,0 +1,5 @@
+# JetBrains - Developer Tools for Professionals and Teams
+.idea/
+
+# Generated files (compiled classes, packaged jars, managed files, caches, and documentation)
+target/
